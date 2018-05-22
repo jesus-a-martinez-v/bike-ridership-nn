@@ -1,5 +1,5 @@
 # bike-ridership-nn
-Simple implementation of a neural network using only Numpy and Pandas, used to predict bike ridership data. This project was developed as part of the great [Deep Learning Nanodegree Foundations by Udacity](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
+Simple implementation of a neural network using only Numpy and Pandas, used to predict bike ridership data. This project was developed as part of the great [Deep Learning Nanodegree Foundations by Udacity](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101).
 
 ## What you'll need
 The whole point of this project is to get our hands dirty by implementing a neural network just with the basics. So, you'll only need:
